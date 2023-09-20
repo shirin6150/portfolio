@@ -1,3 +1,16 @@
+-- import: fastn-community.github.io/gradient-business-card as b-card
+
+-- b-card.card: John Doe
+title: Software Developer
+company-name: John Doe Pvt. Ltd.
+logo: $assets.files.assets.ipsum-logo.svg
+contact-1: +91 12345 99999
+contact-2: +91 12345 88888
+email: john@johndoe.com
+website: www.johndoe.com
+address: 123, Block No. A-123, Times Square, Bangalore - 123456
+company-slogan: If you can type you can code
+
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: shirin6150.github.io/portfolio/lib
@@ -20,16 +33,6 @@ link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
 cover: $assets.files.assets/ape.jpg
-
--- import: fastn-community.github.io/bling/chat
-
--- chat.message-left: Hello World! 😀
-
--- chat.message-left: I'm Nandhini, a freelance 
-content writer.
-
--- chat.message-left: Fun fact: I built this 
-entire page with fastn! 🚀 It's that easy!
 
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
