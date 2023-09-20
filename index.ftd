@@ -21,6 +21,16 @@ cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
 cover: $assets.files.assets/ape.jpg
 
+-- import: fastn-community.github.io/bling/chat
+
+-- chat.message-left: Hello World! 😀
+
+-- chat.message-left: I'm Nandhini, a freelance 
+content writer.
+
+-- chat.message-left: Fun fact: I built this 
+entire page with fastn! 🚀 It's that easy!
+
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
 
