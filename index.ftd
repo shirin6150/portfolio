@@ -1,19 +1,19 @@
 -- import: fastn-community.github.io/gradient-business-card as b-card
-
--- b-card.card: Shirin
-title: Software Developer
-company-name: Shirin Pvt. Ltd.
-logo: $assets.files.assets.ipsum-logo.svg
-contact-1: +91 12345 99999
-contact-2: +91 12345 88888
-email: sherin@gmail.com
-website: www.shirin.com
-address: 123, Block No. A-123, Times Square, Banglore - 123456
-company-slogan: If you can type you can code
-
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: shirin6150.github.io/portfolio/lib
+
+-- b-card.card: John Doe
+title: Software Developer
+company-name: John Doe Pvt. Ltd.
+logo: $assets.files.assets.ipsum-logo.svg
+contact-1: +91 12345 99999
+contact-2: +91 12345 88888
+email: john@johndoe.com
+website: www.johndoe.com
+address: 123, Block No. A-123, Times Square, Bangalore - 123456
+company-slogan: If you can type you can code
+
 
 -- lib.page:
 
